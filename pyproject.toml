@@ -1,0 +1,13 @@
+[project]
+name = "computational-optimal-transport-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cvxpy>=1.8.1",
+    "ipykernel>=7.2.0",
+    "jupyterlab>=4.5.4",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+]
