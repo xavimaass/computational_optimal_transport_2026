@@ -10,5 +10,6 @@ dependencies = [
     "jupyterlab>=4.5.4",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
+    "pot>=0.9.6.post1",
     "tqdm>=4.67.3",
 ]
